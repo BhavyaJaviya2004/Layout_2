@@ -1,0 +1,134 @@
+.rounded-pill {
+    align-items: flex-end;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+.rounded-pill{
+    height: 19%;
+    width: 15%;
+    padding-bottom: 60px;
+    padding-left:0px;
+}
+.companey{
+    padding-top:47px;
+}
+.name{
+    padding-top: 47px;
+    padding-left:0px;
+}
+
+.container-fluid{
+    height: 280px;
+}
+
+.navbar-brand {
+    display: flex;
+    font-size: 60px;
+}
+
+.box {
+    position: absolute;
+    right: 0;
+    background-color:#ffffff;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.boxtext{
+    background-color:#02978b;
+    opacity:0.800;
+    height: 190%;
+    width: 70%;
+    position: absolute;
+    border-bottom-left-radius:50%;
+    border-bottom-right-radius:50%;
+    color: white;
+    text-align:center;
+    font-size:5rem;
+    padding-top: 75px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    height: 100%;
+    width: 100.8%;
+}
+
+.column1 {
+    float: left;
+    width: 55%;
+    padding: 5px;
+    height: 535px;
+}
+
+.our{
+    color:rgba(1, 121, 111);
+
+    font-size:30px;
+    text-align:center;
+    padding-top:50px;
+}
+
+.ourservicesnumber{
+    display:flex;
+    color:orangered;
+    opacity:0.800;
+    font-size:110px;
+    padding-left:50px;
+    margin-top:-25px;
+}
+
+.servicesname{
+
+    color:rgba(1, 121, 111);
+    margin-top: 45px;
+}
+
+.loremtext{
+    color:black;
+    opacity:0.800;
+    font-size:15px;
+    width: 95%;
+    text-align:justify;
+}
+
+.column2 {
+    float: left;
+    width: 37%;
+    height: 625px;
+}
+
+.column {
+    float: left;
+    width: 103%;
+    height: 60px;
+}
+
+.row1about{
+    color:#ffffff;
+    text-align:center;
+    margin-top:9px;
+
+}
+
+.abouttext{
+    font-size:17px;
+    text-align:justify;
+    margin-top:10px;
+    word-spacing:8px;
+}
+
+.row1 {
+    padding: 25px;
+}
+
+.footerbottom{
+    float:left;
+    height: 20px;
+}
